@@ -1,1 +1,2 @@
-about es6-katas
+about es6-katas.
+
